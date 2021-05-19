@@ -20,6 +20,7 @@ Programs para poder rodar o software
 - `ember serve`
 - Visite o sistma pela url [http://localhost:4200](http://localhost:4200).
 - Visite os testes pela url [http://localhost:4200/tests](http://localhost:4200/tests).
+- Producao [https://ember-pdi.herokuapp.com/](https://ember-pdi.herokuapp.com/).
 
 ### Testes
 
